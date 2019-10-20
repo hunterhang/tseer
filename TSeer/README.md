@@ -1,4 +1,17 @@
-﻿[Click me switch to English version](README.en.md)
+﻿1）针对Agent做了二次修改，支持Http协议获取Ip,Port . 支持Http协议上报调用状态。
+2）支持mysql 存储
+3）修改了DB中的Bug，见Wiki. 
+4) 在TSeerAgent/test 目录 中，添加了php测试Agent接口的性能测试代码。
+具体安装方法，见wiki : https://github.com/hunterhang/tseer/wiki
+
+
+
+
+
+
+以下是原文描述
+
+[Click me switch to English version](README.en.md)
 
 ## TSeer
 
