@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O2 -Wall -Wno-deprecated  -rdynamic CMakeFiles/testapi.dir/main.cpp.o  -o ../Tseerapi/test/testapi ../Tseerapi/lib/libtseerapi.a -lpthread -lrt 

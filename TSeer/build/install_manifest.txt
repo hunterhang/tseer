@@ -1,0 +1,4 @@
+/data/soft/TSeer/build/TseerServer/TseerServer/conf/TseerServer.conf
+/data/soft/TSeer/build/TseerAgent/TseerAgent/conf/TseerAgent.conf
+/data/soft/TSeer/build/api/cplus/Tseerapi/lib/Tseer_api.h
+/data/soft/TSeer/build/api/cplus/Tseerapi/lib/Tseer_comm.h

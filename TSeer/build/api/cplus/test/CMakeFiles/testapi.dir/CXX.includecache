@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../api/cplus/src/Tseer_api.h
+string
+-
+Tseer_comm.h
+../api/cplus/src/Tseer_comm.h
+
+../api/cplus/src/Tseer_comm.h
+string
+-
+vector
+-
+
+/data/soft/TSeer/api/cplus/test/main.cpp
+Tseer_api.h
+/data/soft/TSeer/api/cplus/test/Tseer_api.h
+Tseer_comm.h
+/data/soft/TSeer/api/cplus/test/Tseer_comm.h
+iostream
+-
+stdlib.h
+-
+assert.h
+-
+getopt.h
+-
+unistd.h
+-
+sys/syscall.h
+-
+
