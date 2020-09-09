@@ -17,7 +17,7 @@
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
         <mybatis.pagehelper.version>4.1.6</mybatis.pagehelper.version>
-        <hibernate.validator.version>5.3.4.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
         <mysql.version>5.1.14</mysql.version>
         <jackson.version>2.9.2</jackson.version>
         <slf4j.version>1.7.10</slf4j.version>
