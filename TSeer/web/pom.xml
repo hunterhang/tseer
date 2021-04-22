@@ -14,7 +14,7 @@
         <servlet.version>4.0.0</servlet.version>
         <spring.version>4.1.4.RELEASE</spring.version>
         <freemarker.version>2.3.20</freemarker.version>
-        <mybatis.version>3.2.8</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
         <mybatis.pagehelper.version>4.1.6</mybatis.pagehelper.version>
         <hibernate.validator.version>5.3.4.Final</hibernate.validator.version>
