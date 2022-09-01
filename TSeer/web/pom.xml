@@ -30,7 +30,7 @@
         <commons.io.version>2.5</commons.io.version>
         <httpclient.version>4.3.6</httpclient.version>
         <guava.version>18.0</guava.version>
-        <jsoup.version>1.7.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <dom4j.version>1.6.1</dom4j.version>
         <dozer.version>5.5.1</dozer.version>
         <lombok.version>1.16.10</lombok.version>
